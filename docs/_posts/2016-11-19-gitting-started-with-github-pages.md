@@ -3,6 +3,7 @@ layout: post
 title:  "Getting started with github pages"
 date:   2016-11-19 16:34:48 +0000
 categories: jekyll gettingstarted
+author: Evan Gambill
 ---
 
 ## [Look ma, it's a test edit!]
