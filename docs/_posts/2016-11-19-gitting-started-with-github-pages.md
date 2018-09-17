@@ -5,6 +5,8 @@ date:   2016-11-19 16:34:48 +0000
 categories: jekyll gettingstarted
 ---
 
+## [Look ma, it's a test edit!]
+
 This post describes how to configure your github repo to use the /docs folder as the source code for the repo's documentation that will be automatically published in github.io.
 
 # Configuring the documentation folder
