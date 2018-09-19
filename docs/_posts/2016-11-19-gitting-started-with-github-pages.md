@@ -7,7 +7,7 @@ author: Author Byline
 ---
 
 ## [Look ma, it's a test edit!]
-![Squirrel Knight!]({{site.baseurl}}/assets/images/SquirrelKnight.jpg "Squirrel Knight, by Clint Cearley)
+![Squirrel Knight!]({{site.baseurl}}/assets/images/SquirrelKnight.jpg "Squirrel Knight, by Clint Cearley")
 Squirrel Knight, courtesy of [Inked Gaming](https://www.inkedgaming.com/products/toad-rider-playmat).
 
 This post describes how to configure your github repo to use the /docs folder as the source code for the repo's documentation that will be automatically published in github.io.
