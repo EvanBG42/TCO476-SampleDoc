@@ -5,6 +5,7 @@ date:   2018-09-19
 categories: introduction test
 tags: hi mom
 author: Evan Gambill
+permalink: /about/
 ---
 
 # Introduction 
