@@ -9,7 +9,7 @@ The **TCO476-SampleDoc** project tests the github pages documentation for a gith
 
 <div class="home">
 	
-  <h1 class="biography"><a href="/pages/about-me.html">Biography</a></h1>
+  <h1 class="biography"><a href="TCO476-SampleDoc/pages/about-me.html">Biography</a></h1>
 	
   <h1 class="page-heading">Posts</h1>
 
